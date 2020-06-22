@@ -35,6 +35,7 @@ truffle compile
 truffle migrate --network mainnet --reset
 ```
 
+* Test
 ```
 // in progress: truffle exec test/test.js --network mainnet
 ```
