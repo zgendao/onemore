@@ -36,7 +36,7 @@ truffle migrate --network mainnet --reset
 ```
 
 ```
-truffle exec test/test.js --network mainnet
+// in progress: truffle exec test/test.js --network mainnet
 ```
 
 ## Credits
