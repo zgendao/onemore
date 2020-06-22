@@ -42,4 +42,4 @@ truffle exec test/test.js --network mainnet
 ## Credits
 https://github.com/FeiShepherd/ethereum-dice
 
-Inspiration credited to @Maggie_Wang
+Inspiration credited to [@Maggie](https://twitter.com/MaggieWangHarm1)
