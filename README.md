@@ -7,7 +7,7 @@ is a provably fair dice game ported to the [Harmony](http://harmony.one) blockch
 
 * nodejs v12.18.1
 * truffle
-* solidity v0.4.11
+* solidity v0.5.0
 
 ## Guide
 
