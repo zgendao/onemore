@@ -1,5 +1,5 @@
-# one-more
-ONE More is a provably fair dice game ported to [Harmony](http://harmony.one) blockchain.
+# onemore
+ONEMORE is a provably fair dice game ported to [Harmony](http://harmony.one) blockchain.
 
 # Install instructions
 
@@ -9,11 +9,7 @@ ONE More is a provably fair dice game ported to [Harmony](http://harmony.one) bl
 * truffle
 * solidity v0.4.11
 
-## Commands
-
-* Fetch repo
-```
-```
+## Guide
 
 * Install dependencies
 ```
@@ -21,8 +17,6 @@ npm install
 ```
 * Add an .env file
 ```
-//MAINNET
-//Account: ONE address
 MAINNET_PRIVATE_KEY=[PRIVATE KEY]
 MAINNET_MNEMONIC=[MNEMONIC]
 MAINNET_0_URL='https://api.s0.t.hmny.io'
