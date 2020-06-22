@@ -45,6 +45,6 @@ truffle migrate --network mainnet --reset
 
 [How to port something to Harmony](https://github.com/ivorytowerdds/harmony-punks)
 
-[Stolen funds (from Gupadhyaya)](https://github.com/gupadhyaya/soccerplayers/blob/master/.env)
+[Stole funds from Gupadhyaya](https://github.com/gupadhyaya/soccerplayers/blob/master/.env)
 
 Inspiration credited to [@MaggieWangHarm1](https://twitter.com/MaggieWangHarm1)
