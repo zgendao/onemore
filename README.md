@@ -1,5 +1,5 @@
 # onemore
-ONEMORE is a provably fair dice game ported to [Harmony](http://harmony.one) blockchain.
+is a provably fair dice game ported to the [Harmony](http://harmony.one) blockchain.
 
 # Install instructions
 
