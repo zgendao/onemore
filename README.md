@@ -1,6 +1,8 @@
 # onemore
 is a provably fair dice game ported to the [Harmony](http://harmony.one) blockchain.
 
+Inspired by @Maggie_Harmony
+
 # Install instructions
 
 ## Requirements
