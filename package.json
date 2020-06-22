@@ -1,7 +1,7 @@
 {
-  "name": "harmony-punks",
+  "name": "onemore",
   "version": "1.0.0",
-  "description": "Harmony Punks App",
+  "description": "ONE More",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -22,6 +22,7 @@
   "dependencies": {
     "@harmony-js/core": "^0.1.46",
     "dotenv": "^8.2.0",
+    "truffle-assertions": "^0.8.2",
     "tslib": "^2.0.0",
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-stage-2": "^6.3.13",

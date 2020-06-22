@@ -50,8 +50,8 @@ module.exports = {
 
   // Configure your compilers
   compilers: {
-    solc: {
-     version: "0.4.18" 
-    }
+    //solc: {
+    // version: "0.4.10" 
+    //}
   }
 }
