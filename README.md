@@ -40,6 +40,8 @@ truffle exec test/test.js --network mainnet
 ```
 
 ## Credits
-https://github.com/FeiShepherd/ethereum-dice
+[Original source code](https://github.com/FeiShepherd/ethereum-dice)
+[How to port something to Ethereum](https://github.com/ivorytowerdds/harmony-punks)
+[Stole funds from Gupadhyaya for deployment](https://github.com/gupadhyaya/soccerplayers/blob/master/.env)
 
 Inspiration credited to [@MaggieWangHarm1](https://twitter.com/MaggieWangHarm1)
