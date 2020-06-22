@@ -1,8 +1,6 @@
 # onemore
 is a provably fair dice game ported to the [Harmony](http://harmony.one) blockchain.
 
-Inspired by @Maggie_Harmony
-
 # Install instructions
 
 ## Requirements
@@ -43,3 +41,4 @@ truffle exec test/test.js --network mainnet
 
 ## Credits
 https://github.com/FeiShepherd/ethereum-dice
+Inspiration credited to @Maggie_Harmony
