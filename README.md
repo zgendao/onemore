@@ -43,8 +43,8 @@ truffle migrate --network mainnet --reset
 ## Credits
 [Original source code](https://github.com/FeiShepherd/ethereum-dice)
 
-[How to port something to Ethereum](https://github.com/ivorytowerdds/harmony-punks)
+[How to port something to Harmony](https://github.com/ivorytowerdds/harmony-punks)
 
-[Stole funds from Gupadhyaya for deployment](https://github.com/gupadhyaya/soccerplayers/blob/master/.env)
+[Stole real *credits* from Gupadhyaya for deployment](https://github.com/gupadhyaya/soccerplayers/blob/master/.env)
 
 Inspiration credited to [@MaggieWangHarm1](https://twitter.com/MaggieWangHarm1)
