@@ -1,7 +1,7 @@
 {
   "name": "onemore",
   "version": "1.0.0",
-  "description": "ONE More",
+  "description": "is a provably fair dice game ported to Harmony",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ivorytowerdds/harmony-punks.git"
+    "url": "git+https://github.com/zgendao/onemore.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ivorytowerdds/harmony-punks/issues"
+    "url": "https://github.com/zgendao/onemore/issues"
   },
-  "homepage": "https://github.com/ivorytowerdds/harmony-punks#readme",
+  "homepage": "https://github.com/zgendao/onemore",
   "dependencies": {
     "@harmony-js/core": "^0.1.46",
     "dotenv": "^8.2.0",
@@ -27,6 +27,7 @@
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-stage-2": "^6.3.13",
     "babel-preset-stage-3": "^6.3.13",
-    "babel-polyfill": "^6.7.4"
+    "babel-polyfill": "^6.7.4",
+    "yargs": "^13.2.4"
   }
 }
