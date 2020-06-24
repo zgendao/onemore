@@ -1,3 +1,9 @@
 build/contracts/*
 node_modules/*
 .env
+/target
+/public/js
+.shadow-cljs
+.nrepl-port
+yarn-error.log
+package-lock.json

@@ -7,7 +7,13 @@
     "test": "test"
   },
   "scripts": {
-    "test": "truffle test"
+    "sc": "shadow-cljs",
+    "server": "shadow-cljs stop && shadow-cljs start",
+    "start": "shadow-cljs watch app",
+    "build": "yarn clean && shadow-cljs release app",
+    "test": "shadow-cljs compile test && node out/test.js",
+    "test:contracts": "truffle test",
+    "clean": "rm -rf public/js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +26,9 @@
   },
   "homepage": "https://github.com/zgendao/onemore",
   "dependencies": {
+    "create-react-class": "15.6.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
     "@harmony-js/core": "^0.1.46",
     "dotenv": "^8.2.0",
     "truffle-assertions": "^0.8.2",
@@ -29,5 +38,8 @@
     "babel-preset-stage-3": "^6.3.13",
     "babel-polyfill": "^6.7.4",
     "yargs": "^13.2.4"
+  },
+  "devDependencies": {
+    "shadow-cljs": "2.8.95"
   }
 }
